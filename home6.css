@@ -1,0 +1,44 @@
+.collapse navbar-collapse{
+	font-family: Times New Roman;
+}
+
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #e2edff;
+	font-family: Times New Roman;
+}
+
+.col {
+	text-align: justify;
+	font-family: Times New Roman;
+	font-size: 18px;
+}
+
+.row {
+	font-family: Times New Roman;
+}
+
+.col h1 {
+	text-align: center;
+	font-family: Times New Roman;
+}
+
+#Owner {
+	text-align: center;
+	font-family: Times New Roman;
+	background-color: #e2edff;
+}
+
+#ContactUs{
+	background-color: #e2edff;
+}
+
+section {
+	padding-top: 7rem;
+}
+
+footer {
+	text-align: center;
+	font-family: Times New Roman;
+	padding: 3rem;
+}
